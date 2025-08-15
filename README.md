@@ -14,7 +14,7 @@ A Python-based tool for sending **detailed system, network, and screenshot infor
 - Sends output to Discord:
   - via **Bot** (using Discord API)
   - via **Webhook** (no bot account required)
-- Centralized configuration file (`config.cfg`)
+- Centralized configuration file (`config.txt`)
 - Works regardless of where the script is run from
 
 ---
